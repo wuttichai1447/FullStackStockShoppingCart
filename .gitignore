@@ -1,0 +1,9 @@
+backend/bin/
+backend/obj/
+backend/shopping.db
+backend/shopping.db-shm
+backend/shopping.db-wal
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+*.log
